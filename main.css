@@ -5126,6 +5126,7 @@ footer .row {
     top: 0;
     right: 0;
     height: 20px;
+    width: 20px;
     z-index: 1000;
     background: #fff;
     padding: 3px;
